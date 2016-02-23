@@ -1,6 +1,6 @@
-County	County Code	Latitude	Longitude
-"DeKalb County, IL"	17037	41.894612	-88.768991
-"Vanderburgh County, IN"	18163	38.02007	-87.586166
-"Iowa County, IA"	19095	41.683918	-92.059123
-"Darke County, OH"	39037	40.131542	-84.621248
-"Columbia County, WI"	55021	43.471882	-89.330472
+County	County Code	Latitude	Longitude	Frost Free Growing Season
+"DeKalb County, IL"	17037	41.894612	-88.768991	159
+"Vanderburgh County, IN"	18163	38.02007	-87.586166	198
+"Iowa County, IA"	19095	41.683918	-92.059123	161
+"Darke County, OH"	39037	40.131542	-84.621248	159
+"Columbia County, WI"	55021	43.471882	-89.330472	147
